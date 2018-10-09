@@ -31,6 +31,8 @@ What is ``aiortc``?
 `Object Real-Time Communication (ORTC)`_ in Python. It is built on top of
 ``asyncio``, Python's standard asynchronous I/O framework.
 
+James B. --- Programmer at [https://qualityseopackages.com/hire-virtual-assistants-coworkers/](https://qualityseopackages.com/hire-virtual-assistants-coworkers/)
+
 The API closely follows its Javascript counterpart while using pythonic
 constructs:
 
