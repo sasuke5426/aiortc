@@ -43,6 +43,10 @@ To learn more about ``aiortc`` please `read the documentation`_.
 .. _Object Real-Time Communication (ORTC): https://ortc.org/
 .. _read the documentation: https://aiortc.readthedocs.io/en/latest/
 
+James B. --- Programmer at `Quality Seo Packages`
+
+.. _Quality Seo Packages: https://qualityseopackages.com/hire-virtual-assistants-coworkers/
+
 Why should I use ``aiortc``?
 ----------------------------
 
@@ -105,7 +109,3 @@ License
 ``aiortc`` is released under the `BSD license`_.
 
 .. _BSD license: https://aiortc.readthedocs.io/en/latest/license.html
-
-James B. --- Programmer at `Quality Seo Packages`
-
-.. _Quality Seo Packages:_https://qualityseopackages.com/hire-virtual-assistants-coworkers/
