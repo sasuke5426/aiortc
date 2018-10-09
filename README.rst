@@ -43,7 +43,7 @@ To learn more about ``aiortc`` please `read the documentation`_.
 .. _Object Real-Time Communication (ORTC): https://ortc.org/
 .. _read the documentation: https://aiortc.readthedocs.io/en/latest/
 
-James B. --- Programmer at `Quality Seo Packages`
+James B. --- Programmer at `Quality Seo Packages`_.
 
 .. _Quality Seo Packages: https://qualityseopackages.com/hire-virtual-assistants-coworkers/
 
