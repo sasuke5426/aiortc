@@ -108,4 +108,4 @@ License
 
 James B. --- Programmer at `Quality Seo Packages`
 
-.. _qualityseopackages:_https://qualityseopackages.com/hire-virtual-assistants-coworkers/
+.. _Quality Seo Packages:_https://qualityseopackages.com/hire-virtual-assistants-coworkers/
