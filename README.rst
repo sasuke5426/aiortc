@@ -106,4 +106,6 @@ License
 
 .. _BSD license: https://aiortc.readthedocs.io/en/latest/license.html
 
-James B. --- Programmer at qualityseopackages:https://qualityseopackages.com/hire-virtual-assistants-coworkers/
+James B. --- Programmer at `Quality Seo Packages`
+
+.. qualityseopackages:_https://qualityseopackages.com/hire-virtual-assistants-coworkers/
